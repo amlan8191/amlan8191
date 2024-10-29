@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Amlan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer from India, recently graduated with B.tech in Computer Science and Engineering</h3>
 <!-- <img align="right alt = "Coding" width = "400" src="https://www.behance.net/gallery/161921919/Portrait-animated-gif"> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amlan8191&label=Profile%20views&color=0e75b6&style=flat" alt="amlan8191" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amlan8191" alt="amlan8191" /></a> </p>
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amlan8191" alt="amlan8191" /></a> </p>-->
 
 - 🌱 I’m currently learning **Game Development**
 
